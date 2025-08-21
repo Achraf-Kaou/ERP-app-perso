@@ -26,7 +26,7 @@ import {
 	CandidateActionConfirmationComponent,
 	CountdownConfirmationComponent,
 	DeleteConfirmationComponent
-} from '.';
+} from '../forms';
 
 const COMPONENTS = [
 	BasicInfoFormComponent,
