@@ -1,7 +1,7 @@
 {
 	"extends": "./tsconfig.json",
 	"compilerOptions": {
-		"outDir": "../../dist/out-tsc",
+		"outDir": "./dist",
 		"declaration": true,
 		"types": ["node"],
 		"target": "es2021",
@@ -9,8 +9,11 @@
 		"noImplicitAny": false,
 		"strictBindCallApply": false,
 		"forceConsistentCasingInFileNames": true,
-		"noFallthroughCasesInSwitch": false
+		"noFallthroughCasesInSwitch": false, "module": "nodenext",
+		"moduleResolution": "nodenext",
+		"baseUrl": "src",
+		"rootDir": "src"
 	},
 	"include": ["src/**/*.ts"],
-	"exclude": ["jest.config.ts", "src/**/*.spec.ts", "src/**/*.test.ts"]
+	"exclude": ["src/**/*.spec.ts", "src/**/*.test.ts"]
 }

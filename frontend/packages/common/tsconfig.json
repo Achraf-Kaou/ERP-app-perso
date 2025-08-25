@@ -6,7 +6,11 @@
 		"noImplicitOverride": false,
 		"noImplicitReturns": false,
 		"noFallthroughCasesInSwitch": false,
-		"noPropertyAccessFromIndexSignature": false
+		"noPropertyAccessFromIndexSignature": false,
+		"module": "nodenext",
+		"moduleResolution": "nodenext",
+		"baseUrl": "src",
+		"rootDir": "src"
 	},
 	"files": [],
 	"include": [],

@@ -1,0 +1,1 @@
+{"version":3,"file":"project.model.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/project.model.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,QAAQ;IACxB,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;IACd,QAAQ,EAAE,MAAM,CAAC;CACjB"}

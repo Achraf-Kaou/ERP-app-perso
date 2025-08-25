@@ -1,0 +1,1 @@
+{"version":3,"file":"favorite.model.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/favorite.model.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,qBAAqB,CAAC;AACzD,OAAO,EAAE,oBAAoB,EAAE,MAAM,kBAAkB,CAAC;AAExD,MAAM,WAAW,SAAU,SAAQ,oBAAoB,EAAE,kBAAkB;CAAG;AAE9E,MAAM,WAAW,oBAAqB,SAAQ,SAAS;CAAG"}

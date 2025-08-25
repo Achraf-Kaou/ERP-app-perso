@@ -1,0 +1,1 @@
+{"version":3,"file":"chart.model.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/chart.model.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,SAAS;IACzB,MAAM,CAAC,EAAE,MAAM,EAAE,CAAC;IAClB,QAAQ,EAAE;QACT,KAAK,CAAC,EAAE,MAAM,CAAC;QACf,eAAe,CAAC,EAAE,MAAM,CAAC;QACzB,WAAW,CAAC,EAAE,MAAM,CAAC;QACrB,IAAI,CAAC,EAAE,MAAM,EAAE,CAAC;KAChB,EAAE,CAAC;CACJ"}

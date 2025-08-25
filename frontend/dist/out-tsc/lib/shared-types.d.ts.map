@@ -1,0 +1,1 @@
+{"version":3,"file":"shared-types.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/shared-types.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,WAAW,kBAAkB,CAAC,CAAC,GAAG,GAAG;IAC1C,CAAC,GAAG,EAAE,MAAM,GAAG,CAAC,CAAC;CACjB;AAED;;;GAGG;AACH,MAAM,MAAM,cAAc,GAAG,MAAM,GAAG,IAAI,CAAC"}

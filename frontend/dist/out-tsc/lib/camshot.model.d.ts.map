@@ -1,0 +1,1 @@
+{"version":3,"file":"camshot.model.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/camshot.model.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,QAAQ;IACxB,KAAK,EAAE,MAAM,CAAC;IACd,UAAU,CAAC,EAAE,IAAI,CAAC;IAClB,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,IAAI,CAAC,EAAE,MAAM,CAAC;CACd"}

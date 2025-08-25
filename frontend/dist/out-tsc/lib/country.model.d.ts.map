@@ -1,0 +1,1 @@
+{"version":3,"file":"country.model.d.ts","sourceRoot":"","sources":["../../../packages/contracts/src/lib/country.model.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,qBAAqB,CAAC;AAEvD,MAAM,WAAW,QAAS,SAAQ,gBAAgB;IACjD,OAAO,EAAE,MAAM,CAAC;IAChB,OAAO,EAAE,MAAM,CAAC;CAChB"}
